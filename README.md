@@ -1,7 +1,7 @@
 
 # Short URL Generator
 
-A short URL generator application build with laravel and vuejs
+A short URL generator application built with laravel and vuejs
 
 
 ## Features
